@@ -1,0 +1,3 @@
+0 200 shekel
+1 100 shekel
+2 Class 3
